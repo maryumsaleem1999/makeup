@@ -1,0 +1,66 @@
+/*body{
+	background-color:grey;
+}*/
+
+
+p{
+font-size: 16px;
+
+}
+
+.nav-link{
+	color: black;
+	font-family: popins;
+	font-size: 20px;
+}
+#fix{
+background-color: grey;
+border-radius: 25px;
+margin-left: 10px;
+color: #fff;
+}
+#fix:hover{
+	color: black;
+} 
+a:hover{
+	color: red;
+}
+.contact{
+	width: 50%
+	height: 200px;
+	background-color: #fff;
+	padding:15px;
+	margin-left: 13px;
+	border: 1px solid grey;
+
+}
+a{
+	color: blue;
+}
+.hye{
+	width: 100%;
+	height: 190px;
+	background-color: #fff;
+	padding: 30px;
+	margin-bottom: 10px;
+}
+.col-lg-8{
+	border: 1px solid grey;
+}
+.copyright{
+	display: flex;
+	margin-top:  15px;
+	margin-right:  15px;
+	margin-left:  15px;
+
+}
+#design{
+	background-color:black;
+	color: #fff;
+	border-radius: 25px;
+	margin: 0 15px;
+}
+.fine>p{
+	padding-top: 10px;
+	color: lightgrey;
+}

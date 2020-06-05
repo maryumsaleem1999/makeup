@@ -1,0 +1,50 @@
+p{
+font-size: 16px;
+}
+
+.nav-link{
+	color: black;
+	font-family: popins;
+	font-size: 20px;
+}
+.nav-link:hover{
+color: red !important;
+}
+#fix{
+background-color: grey;
+border-radius: 25px;
+margin-left: 10px;
+color: #fff;
+}
+#fix:hover{
+	color: black;
+}
+.card2{
+	display:flex; 
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.service{
+	display: flex;
+	flex-direction: row;
+
+}
+p{
+color: grey;
+}
+.btn-success{
+	border-radius: 20px;
+}
+.copyright{
+	display: flex;
+	margin-top:  15px;
+	margin-right:  15px;
+	margin-left:  15px;
+
+}
+#design{
+	background-color:black;
+	color: #fff;
+	border-radius: 25px;
+	margin: 0 15px;
+}
